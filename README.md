@@ -129,7 +129,7 @@ The dashboard presents an end-to-end **loan performance summary** using **SQL** 
 ---
 
 ### 🌐 View the Interactive Dashboard
-👉 **[View on Tableau Public]([https://public.tableau.com/views/YourDashboardLinkHere](https://public.tableau.com/views/BankLoanDashboard_17605457873150/DETAILS?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
+👉 **[View on Tableau Public]((https://public.tableau.com/views/YourDashboardLinkHere](https://public.tableau.com/views/BankLoanDashboard_17605457873150/DETAILS?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
 
 
 ---
